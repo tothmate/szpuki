@@ -6,6 +6,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <AVFoundation/AVFoundation.h>
+#import <CoreMotion/CoreMotion.h>
+#import <QuartzCore/QuartzCore.h>
 
 @interface ViewController : UIViewController
 
